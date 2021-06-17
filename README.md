@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bridgerz
+- 👀 I’m interested in pioneering the next digital frontier 
+- 🌱 I’m currently learning solidity
+- 📫 Reach me at bridger@bridgerzoske.com
