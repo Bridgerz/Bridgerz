@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bridgerz
 - 👀 I’m interested in pioneering the next digital frontier 
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currenlty in love with blockchain development 
 - 📫 Reach me at bridger@bridgerzoske.com
