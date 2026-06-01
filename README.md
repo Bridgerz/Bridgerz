@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bridgerz
 - 👀 I’m interested in pioneering the next digital frontier 
-- 🌱 I’m currenlty in love with decentralized technology
+- 🌱 I’m currenlty in love with distributed systems
